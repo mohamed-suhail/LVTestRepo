@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="TestSub1.vi" Type="VI" URL="../SubVI/TestSub1.vi"/>
+			<Item Name="TestSub2.vi" Type="VI" URL="../SubVI/TestSub2.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
